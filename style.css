@@ -1,4 +1,18 @@
-*{
-    color: purple;
-    background-color: blue;
+body{
+    font-family: 'Poppins',sans-serif;
+    color: black;
+    box-sizing
+}
+
+.navbar{
+   display: flex;
+   margin-left: 70px;
+}
+
+.link_section_1{
+    flex: 2;
+}
+
+.link_section_2{
+    flex: 4;
 }
